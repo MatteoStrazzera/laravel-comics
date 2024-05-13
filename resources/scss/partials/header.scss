@@ -1,0 +1,6 @@
+@use './variables' as *;
+
+.active-navlink {
+    border-bottom: 2px solid $primary;
+    color: $primary;
+}
